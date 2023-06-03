@@ -3,18 +3,21 @@
         {
             "id":1,
             "name": "bhanuka",
-            "age": "21"
+            "age": "21",
+            "image":"https://bhanuka01.github.io/json/1.jpg"
             
         },
         {
             "id":2,
             "name": "dilshan",
-            "age": "30"
+            "age": "30",
+            "image":"https://bhanuka01.github.io/json/222.jpg"
         },
         {
             "id":3,
             "name": "dasun",
-            "age": "21"
+            "age": "21",
+            "image":"https://bhanuka01.github.io/json/w2.jpg"
         }
     ]
 }
