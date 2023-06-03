@@ -1,18 +1,18 @@
-[
 {
-    "name":"bhanuka",
-    "age" :"21"
-    
-},
-{
-    "name":"dilshan",
-    "age" :"30"
-    
-},
-{
-    "name":"dasun",
-    "age" :"21"
-    
+    "data": [
+        {
+            "id":1,
+            "name": "bhanuka",
+            "age": "21"
+            
+        },
+        {
+            "name": "dilshan",
+            "age": "30"
+        },
+        {
+            "name": "dasun",
+            "age": "21"
+        }
+    ]
 }
-
-]
